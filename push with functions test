@@ -53,7 +53,7 @@
   } ],
   "functionSteps" : [ {
     "Step_Number" : 1,
-    "Step_Description" : "Go TO URL",
+    "Step_Description" : "go to url",
     "Control_Type" : "WebElement",
     "Locator_Type" : "",
     "Locator_Value" : "",
