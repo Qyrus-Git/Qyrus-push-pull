@@ -52,7 +52,7 @@
     "Data_View_Type" : "text"
   }, {
     "Step_Number" : 4,
-    "Step_Description" : "wait",
+    "Step_Description" : "wait for element",
     "Control_Type" : "WebElement",
     "Locator_Type" : "",
     "Locator_Value" : "",
